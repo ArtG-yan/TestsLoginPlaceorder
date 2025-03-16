@@ -2,4 +2,8 @@ Test adding item to  Cart
 Test place order
 Check whether the credit card field accepts letters
 Test placing order with invalid credit card data
+<<<<<<< Updated upstream
 Test deleting item from cart
+=======
+ Test adding several items to Cart
+>>>>>>> Stashed changes
