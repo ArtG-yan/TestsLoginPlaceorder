@@ -1,3 +1,8 @@
 Test placing order for several items
 Test adding more than one of the same item to cart
- 
+Test adding item to  Cart
+Test place order
+Check whether the credit card field accepts letters
+Test placing order with invalid credit card data
+Test deleting item from cart
+Test adding several items to Cart

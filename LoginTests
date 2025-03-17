@@ -1,3 +1,6 @@
 Test user registration with credentials of Armenian letters
 Test log out from account
 Test registration password with uppercase
+Test log in with valid credentials
+Test log in with invalid password
+Test login with empty password field
